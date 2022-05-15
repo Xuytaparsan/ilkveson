@@ -42,7 +42,7 @@ async def help(event):
                       [Button.url('➕ Məni Qurupa əlavə et ➕', 'http://t.me/CrazyTagBot?startgroup=a')],
                       [Button.url('Dəstək Qurupu 👨‍💻', 'https://t.me/Crazysup')],
                       [Button.url('Rəsmi Kanal 🔖', 'https://t.me/crazy_resmi')],
-                      [Button.url('Crazy Mmc', 'https://t.me/crazymmc')],
+                      [Button.url('Crazy MMC 🔖', 'https://t.me/crazymmc')],
 		      [Button.url('Owner 👨🏻‍💻', 'https://t.me/Dakanca_Hozu')],
                     ),
                     link_preview=False
